@@ -7,7 +7,7 @@ const onboarding1 = () => {
       <View style={styles.container}>
         <Image style={styles.image1} source={require('./images/splash-logo.png')}/>
         <Image style={styles.image2} source={require('./images/page2-image.png')}/>
-        <Text style={styles.h1}>Welcome to Kiddl.</Text>
+        <Text style={styles.h1}>Welcome to Kiddl</Text>
         <Text style={styles.h2}>Firstly, what should we call you?</Text>
       </View>
 
