@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Kiddl",
+    "slug": "Kiddl",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/kiddl-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kiddl"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app icon-android.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.kiddl"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
